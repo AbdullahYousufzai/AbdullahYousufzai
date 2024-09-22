@@ -1,15 +1,16 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm AbdullahYousufzai</h1>
 <h2 align="center">This is Abdullah Yousufzai form AFG commander of IEA <span><img width="5%" 
  src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 10px; display: inline-block;" data-target="animated-image.originalImage"></span></h2>
 
 
-<table>
+<table  border="none">
   <tr>
-    <td  >
+    <td  border="none">
       <h3 align="center">Gray Hat Company Specializing in Full-Stack Development</h3>
      <p align="center">We are a dynamic Gray Hat company based in Kabul, Afghanistan, specializing in web and mobile development solutions. Our team of skilled professionals brings a wealth of experience and expertise to the table. With a strong foundation in Computer Science and Information Technology, gained from the prestigious Communication Technology in Kabul Afghanistan, we are dedicated to creating innovative solutions. At our core, we are passionate about building cutting-edge technology and working collaboratively as a team. We thrive on challenges, constantly pushing the boundaries of what's possible. Our mission is to leverage technology to solve real-world problems and deliver exceptional results. Join us on our journey to shape the future of technology. Together, we'll create solutions that make a meaningful impact.</p>
     </td>
-    <td align="center">
+    <td align="center"  border="none">
       <img  width="180px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Gray Hat Company" >
     </td>
   </tr>
