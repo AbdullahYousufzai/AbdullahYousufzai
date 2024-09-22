@@ -34,6 +34,9 @@
   abdullahyousufzai832@gmail.com
 </p>
 
+<img align="right" src="https://camo.githubusercontent.com/5d21eb2aacd184bcc6c2b140bcd922e8cbb49a5007e95b0b1bb7fef2a53cf56d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7269736861766368616e64612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="rishavchanda" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahYousufzai
+&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
